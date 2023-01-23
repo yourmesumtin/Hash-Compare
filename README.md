@@ -1,6 +1,7 @@
 # Hash-Compare
 
 PROBLEM:
+
 You have 2 hashes. You are looking for the difference between the 2. What was added or removed or if the hash is the same.
 
 Hash only have string keys
@@ -12,6 +13,7 @@ Compare should have an option for deep or shallow compare
 Compare should list the difference for keys and values
 
 SUMMARY:
+
 I try to make the code more user-friendly by adding detailed comment to explain each line of the code.
 
 *The code has two functions compare_hashes_deep and compare_hashes_shallow that can compare two hashes and return the differences between them. 
